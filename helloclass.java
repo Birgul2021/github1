@@ -3,5 +3,6 @@ public class helloclass {
         System.out.println("");
         ali ahmet
         System.out.println("local repo is already published in github");
+        merhaba
     }
 }
